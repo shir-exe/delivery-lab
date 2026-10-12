@@ -4,3 +4,5 @@ def health_payload():
         "status": "ok",
         "version": "dev",
     }
+
+print(health_payload())
