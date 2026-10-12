@@ -1,0 +1,17 @@
+[33mtag v1.0[m
+Tagger: Shiri <s0527647058@gmail.com>
+Date:   Mon Oct 12 12:23:33 2026 +0300
+
+Release 1.0
+
+[33mcommit 1963f7b40ecc1bf78b050af15bf8d8ab3fdb4e09[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;33mtag: [m[1;33mv1.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 3da105d f7f2994
+Author: shir-exe <s0527647058@gmail.com>
+Date:   Wed Sep 23 20:11:16 2026 +0300
+
+    Merge pull request #2 from shir-exe/feature/health-endpoint
+    
+    Add health endpoint
+
+ app.py | 6 [32m++++++[m
+ 1 file changed, 6 insertions(+)
